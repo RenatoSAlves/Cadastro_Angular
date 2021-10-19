@@ -1,19 +1,59 @@
 {
-    "products": [
-        {
-            "id":1,
-            "name": "Caneta BIC Preta",
-            "price": 5.89
-        }, 
-        {
-            "id":2,
-            "name": "Notebook Mac Pro",
-            "price": 12000.89
-        },
-        {
-            "id":3,
-            "name": "Sansung S20+",
-            "price": 5000.89
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta Ponta fina",
+      "price": "7.89"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+ Ultra",
+      "price": "7500.89"
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125.98,
+      "id": 4
+    },
+    {
+      "name": "Produto do form",
+      "price": "9.99",
+      "id": 5
+    },
+    {
+      "name": "Geladeira",
+      "price": "2450.99",
+      "id": 6
+    },
+    {
+      "name": "Pão e forma",
+      "price": "7.49",
+      "id": 7
+    },
+    {
+      "name": "Feijão",
+      "price": "15.00",
+      "id": 8
+    },
+    {
+      "name": "Arroz",
+      "price": "12.30",
+      "id": 9
+    },
+    {
+      "name": "Lápis preto",
+      "price": "2.5",
+      "id": 10
+    },
+    {
+      "name": "Vinho branco",
+      "price": "182.23",
+      "id": 11
+    }
+  ]
 }
